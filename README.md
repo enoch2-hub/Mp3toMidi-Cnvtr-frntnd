@@ -13,7 +13,7 @@ This is the frontend for the MP3 to MIDI Converter application built with React.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mp3-to-midi-frontend.git
+   git clone https://github.com/enoch2-hub/Mp3toMidi-Cnvtr-frntnd.git
    cd mp3-to-midi-frontend
 
 2. Install dependencies:
